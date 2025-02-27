@@ -1,115 +1,18 @@
-<style>
-.github-corner, .site-footer { display: none !important; }
+---
+layout: default
+---
 
-body {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    line-height: 1.6;
-    color: #333;
-}
+<img src="/assets/img/陈鹏职业照.png" alt="陈鹏" class="profile-image">
 
-.page-header {
-    text-align: center;
-    margin-bottom: 2em;
-}
-
-.profile-image {
-    text-align: center;
-    margin: 20px 0;
-}
-
-.profile-image img {
-    max-width: 200px;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-h1, h2 {
-    color: #2c3e50;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 10px;
-    margin-top: 1.5em;
-}
-
-.research-directions {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    margin: 20px 0;
-}
-
-.research-item {
-    background: #f8f9fa;
-    padding: 15px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
-
-.timeline li {
-    margin-bottom: 1em;
-    list-style-type: none;
-    position: relative;
-    padding-left: 20px;
-}
-
-.timeline li:before {
-    content: "•";
-    position: absolute;
-    left: 0;
-    color: #3498db;
-}
-
-.publications li {
-    margin-bottom: 1em;
-}
-
-.video-section {
-    margin-top: 2em;
-}
-
-.video-card {
-    background: #f8f9fa;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
-
-.video-card a {
-    display: inline-block;
-    padding: 8px 16px;
-    background: #3498db;
-    color: white;
-    text-decoration: none;
-    border-radius: 4px;
-    transition: background 0.3s ease;
-}
-
-.video-card a:hover {
-    background: #2980b9;
-}
-
-.main-content {
-    background: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
-</style>
-
-<div class="header-section">
-  <div class="profile-image">
-    <img src="assets/images/陈鹏职业照.png" alt="陈鹏职业照">
-  </div>
-  
+<div class="contact-info">
+  <strong>职称：</strong> 副教授，硕士生导师<br>
+  <strong>单位：</strong> 河北工业大学人工智能与数据科学学院<br>
+  <strong>职务：</strong> 智能控制系副主任
 </div>
 
-<div class="main-content">
-  <h2>个人简介</h2>
+# 个人简介
+
   陈鹏，男，副教授，硕士生导师，河北工业大学人工智能与数据学科学学院智能控制系副主任。中国自动化学会智能制造系统与技术专委会委员，河北省人工智能学会理事。2015年，博士毕业于北京科技大学控制科学与工程专业，曾在捷克布尔诺技术大学、澳大利亚西悉尼大学访学。研究领域为机器视觉、机器人导航与自主定位、机器人三维环境感知、机器人位姿估计等。参与国家自然科学基金联合基金1项，国家重点研发计划1项，河北省重大科技成果转化专项1项，国家自然科学基金5项。，获得河北省科技进步二等奖1项。在《Journal of Intelligent Material Systems and Structures》、《International Journal for Light and Electron Optics》、《光学学报》、《宇航学报》等国内外知名期刊、会议上发表论文30余篇，授权或公开发明专利6项，授权实用新型专利1项，取得软件著作权多项。
-</div>
 
 # 研究方向
 
@@ -206,26 +109,12 @@ h1, h2 {
 
 [4] 李金惠, 康家维, 梁欢, 陈旭, 陈鹏. 24SR0385073. 基于STM32F407ZGT6的智慧灯杆控制软件V1.0. 2023(2023.11.25)[2024.03.13]. 国家版权局.
 
-<div class="video-section">
-  <h2>实验室建设B站视频</h2>
-  <div class="video-card">
-    <h3>小米机器狗障碍物识别与避障实验</h3>
-    <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV" target="_blank">
-      观看视频 →
-    </a>
-  </div>
-  
-  <div class="video-card">
-    <h3>面向抓取的位姿跟踪算法对比实验</h3>
-    <a href="https://www.bilibili.com/video/BV1DhB2YQE7R" target="_blank">
-      观看视频 →
-    </a>
-  </div>
-  
-  <div class="video-card">
-    <h3>基于深度相机的3D建模与位姿跟踪实验</h3>
-    <a href="https://www.bilibili.com/video/BV1QhB2YXEJW" target="_blank">
-      观看视频 →
-    </a>
-  </div>
+# 实验室工作视频
+
+<div class="video-container">
+1. <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">小米机器狗障碍物识别与避障实验</a>
+
+2. <a href="https://www.bilibili.com/video/BV1DhB2YQE7R?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">面向抓取的位姿跟踪算法对比实验</a>
+
+3. <a href="https://www.bilibili.com/video/BV1QhB2YXEJW?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">基于深度相机的3D建模与位姿跟踪实验</a>
 </div>
