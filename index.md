@@ -94,11 +94,11 @@ layout: default
 
 # 实验室工作视频
 <div class="video-container">
- <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">小米机器狗障碍物识别与避障实验</a>
+1. <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">小米机器狗障碍物识别与避障实验</a>
 
- <a href="https://www.bilibili.com/video/BV1DhB2YQE7R?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">面向抓取的位姿跟踪算法对比实验</a>
+2. <a href="https://www.bilibili.com/video/BV1DhB2YQE7R?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">面向抓取的位姿跟踪算法对比实验</a>
 
- <a href="https://www.bilibili.com/video/BV1QhB2YXEJW?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">基于深度相机的3D建模与位姿跟踪实验</a>
+3. <a href="https://www.bilibili.com/video/BV1QhB2YXEJW?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">基于深度相机的3D建模与位姿跟踪实验</a>
 </div>
 
 # 联系方式
