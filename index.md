@@ -92,7 +92,7 @@ layout: default
 
 [4] 李金惠, 康家维, 梁欢, 陈旭, 陈鹏. 24SR0385073. 基于STM32F407ZGT6的智慧灯杆控制软件V1.0. 2023(2023.11.25)[2024.03.13]. 国家版权局.
 
-# 实验室工作视频
+# 3D AI Sensing 小组工作视频
 <div class="video-container">
 <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">小米机器狗障碍物识别与避障实验</a>
 
