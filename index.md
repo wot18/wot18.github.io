@@ -2,19 +2,6 @@
 layout: default
 ---
 
-<div class="wrapper">
-  <div class="sidebar">
-    <img src="/assets/img/陈鹏职业照.png" alt="陈鹏" ，class="profile-image">
-    
-    <div class="contact-info">
-      <strong>职称：</strong> 副教授，硕士生导师<br>
-      <strong>单位：</strong> 河北工业大学人工智能与数据科学学院<br>
-      <strong>职务：</strong> 智能控制系副主任<br>
-      <strong>邮箱：</strong> 2015019@hebut.edu.cn<br>
-      <strong>地址：</strong> 河北工业大学，西教三，319室<br>
-    </div>
-
-  </div>
 
    <div class="main-content"> 
 
