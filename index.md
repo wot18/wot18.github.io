@@ -104,11 +104,6 @@ h1, h2 {
     <img src="assets/images/陈鹏职业照.png" alt="陈鹏职业照">
   </div>
   
-  <div class="main-content">
-    <h1>陈鹏个人主页</h1>
-    <h2>个人简介</h2>
-    陈鹏，男，副教授...
-  </div>
 </div>
 
 <div class="main-content">
