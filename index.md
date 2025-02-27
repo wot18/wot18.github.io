@@ -93,11 +93,13 @@ layout: default
 [4] 李金惠, 康家维, 梁欢, 陈旭, 陈鹏. 24SR0385073. 基于STM32F407ZGT6的智慧灯杆控制软件V1.0. 2023(2023.11.25)[2024.03.13]. 国家版权局.
 
 # 实验室工作视频
-1.【小米机器狗障碍物识别与避障实验】https://www.bilibili.com/video/BV1Q8B2YpEbV?vd_source=26fd4b693b6de6f59d1a993e7865c59c
+<div class="video-container">
+1. <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">小米机器狗障碍物识别与避障实验</a>
 
-2.【面向抓取的位姿跟踪算法对比实验】https://www.bilibili.com/video/BV1DhB2YQE7R?vd_source=26fd4b693b6de6f59d1a993e7865c59c
+2. <a href="https://www.bilibili.com/video/BV1DhB2YQE7R?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">面向抓取的位姿跟踪算法对比实验</a>
 
-3.【基于深度相机的3D建模与位姿跟踪实验】https://www.bilibili.com/video/BV1QhB2YXEJW?vd_source=26fd4b693b6de6f59d1a993e7865c59c
+3. <a href="https://www.bilibili.com/video/BV1QhB2YXEJW?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">基于深度相机的3D建模与位姿跟踪实验</a>
+</div>
 
 # 联系方式
 - 邮箱：2015019@hebut.edu.cn

@@ -52,3 +52,17 @@ ul li:before {
   width: 1em;
   margin-left: -1em;
 }
+
+.video-container {
+  margin: 20px 0;
+  a {
+    display: block;
+    padding: 10px;
+    background: #f6f8fa;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    &:hover {
+      background: #eef1f5;
+    }
+  }
+}
