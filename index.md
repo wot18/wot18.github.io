@@ -2,12 +2,13 @@
 layout: default
 ---
 
-<div class="wrapper">
-  <div class="sidebar">
+# 个人简历
 
-  </div>
-  <div class="main-content"> 
-  
+<div class="contact-info" markdown="1">
+**邮箱：** 2015019@hebut.edu.cn  
+**地址：** 河北工业大学，北辰校区，西教三319室
+</div>
+
 # 个人简介
   陈鹏，男，副教授，硕士生导师，河北工业大学人工智能与数据学科学学院智能控制系副主任。中国自动化学会智能制造系统与技术专委会委员，河北省人工智能学会理事。2015年，博士毕业于北京科技大学控制科学与工程专业，曾在捷克布尔诺技术大学、澳大利亚西悉尼大学访学。研究领域为机器视觉、机器人导航与自主定位、机器人三维环境感知、机器人位姿估计等。参与国家自然科学基金联合基金1项，国家重点研发计划1项，河北省重大科技成果转化专项1项，国家自然科学基金5项。，获得河北省科技进步二等奖1项。在《Journal of Intelligent Material Systems and Structures》、《International Journal for Light and Electron Optics》、《光学学报》、《宇航学报》等国内外知名期刊、会议上发表论文30余篇，授权或公开发明专利6项，授权实用新型专利1项，取得软件著作权多项。
 
@@ -100,19 +101,12 @@ layout: default
 [4] 李金惠, 康家维, 梁欢, 陈旭, 陈鹏. 24SR0385073. 基于STM32F407ZGT6的智慧灯杆控制软件V1.0. 2023(2023.11.25)[2024.03.13]. 国家版权局.
 
 # 实验室工作视频
-  <div class="video-container">
+1.【小米机器狗障碍物识别与避障实验】https://www.bilibili.com/video/BV1Q8B2YpEbV?vd_source=26fd4b693b6de6f59d1a993e7865c59c
 
-    <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">小米机器狗障碍物识别与避障实验</a>
+2.【面向抓取的位姿跟踪算法对比实验】https://www.bilibili.com/video/BV1DhB2YQE7R?vd_source=26fd4b693b6de6f59d1a993e7865c59c
 
-    <a href="https://www.bilibili.com/video/BV1DhB2YQE7R?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">面向抓取的位姿跟踪算法对比实验</a>
-
-    <a href="https://www.bilibili.com/video/BV1QhB2YXEJW?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">基于深度相机的3D建模与位姿跟踪实验</a>
-  </div>
+3.【基于深度相机的3D建模与位姿跟踪实验】https://www.bilibili.com/video/BV1QhB2YXEJW?vd_source=26fd4b693b6de6f59d1a993e7865c59c
 
 # 联系方式
 - 邮箱：2015019@hebut.edu.cn
-- 地址：河北工业大学，北辰校区，西教三319室                                    
-
-</div>
-
-</div>
+- 地址：河北工业大学，北辰校区，西教三319室
