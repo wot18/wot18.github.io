@@ -2,13 +2,18 @@
 layout: default
 ---
 
-<img src="/assets/img/陈鹏职业照.png" alt="陈鹏" class="profile-image">
+<div class="wrapper">
+  <div class="sidebar">
+    <img src="/assets/img/陈鹏职业照.png" alt="陈鹏" class="profile-image">
+    
+    <div class="contact-info">
+      <strong>职称：</strong> 副教授，硕士生导师<br>
+      <strong>单位：</strong> 河北工业大学人工智能与数据科学学院<br>
+      <strong>职务：</strong> 智能控制系副主任
+    </div>
+  </div>
 
-<div class="contact-info">
-  <strong>职称：</strong> 副教授，硕士生导师<br>
-  <strong>单位：</strong> 河北工业大学人工智能与数据科学学院<br>
-  <strong>职务：</strong> 智能控制系副主任
-</div>
+   <div class="main-content"> 
 
 # 个人简介
 
@@ -117,4 +122,7 @@ layout: default
 2. <a href="https://www.bilibili.com/video/BV1DhB2YQE7R?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">面向抓取的位姿跟踪算法对比实验</a>
 
 3. <a href="https://www.bilibili.com/video/BV1QhB2YXEJW?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">基于深度相机的3D建模与位姿跟踪实验</a>
+</div>
+
+</div>
 </div>

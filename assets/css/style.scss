@@ -10,9 +10,36 @@ body {
 }
 
 .wrapper {
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 30px;
+  display: flex;
+  gap: 40px;
+}
+
+.sidebar {
+  width: 300px;
+  position: sticky;
+  top: 30px;
+  align-self: flex-start;
+}
+
+.main-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.profile-image {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.contact-info {
+  background: #f6f8fa;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 20px;
 }
 
 h1, h2 {
