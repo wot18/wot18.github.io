@@ -64,3 +64,24 @@ ul {
     padding: 15px;
   }
 }
+
+/* 个人照片样式 */
+.profile-image {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.profile-image img {
+  max-width: 200px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* 确保右侧内容区域的标题从h2开始 */
+.main-content h1 {
+  display: none;
+}
+
+.main-content h2:first-of-type {
+  margin-top: 0;
+}
