@@ -6,12 +6,122 @@ title: 陈鹏个人主页
 
 <style>
 .github-corner, .site-footer { display: none !important; }
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.profile-image {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.profile-image img {
+    max-width: 200px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+h1, h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-top: 1.5em;
+}
+
+.research-directions {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.research-item {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.timeline li {
+    margin-bottom: 1em;
+    list-style-type: none;
+    position: relative;
+    padding-left: 20px;
+}
+
+.timeline li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #3498db;
+}
+
+.publications li {
+    margin-bottom: 1em;
+}
+
+.video-section {
+    margin-top: 2em;
+}
+
+.video-card {
+    background: #f8f9fa;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.video-card a {
+    display: inline-block;
+    padding: 8px 16px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.3s ease;
+}
+
+.video-card a:hover {
+    background: #2980b9;
+}
+
+.main-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
 </style>
 
-<h1 style="text-align: center;">陈鹏个人主页</h1>
+<div class="page-header">
+    <h1>陈鹏个人主页</h1>
+    <div class="profile-image">
+        <img src="assets/images/陈鹏职业照.jpg" alt="陈鹏职业照">
+    </div>
+</div>
 
-<div class="profile-image" style="text-align: center; margin: 20px 0;">
-  <img src="assets/images/陈鹏职业照.jpg" alt="陈鹏职业照" style="max-width: 200px; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div class="header-section">
+  <div class="profile-image">
+    <img src="assets/images/陈鹏职业照.png" alt="陈鹏职业照">
+  </div>
+  
+  <div class="main-content">
+    <h1>陈鹏个人主页</h1>
+    <h2>个人简介</h2>
+    陈鹏，男，副教授...
+  </div>
 </div>
 
 <div class="main-content">
@@ -66,35 +176,35 @@ title: 陈鹏个人主页
 
 # 代表性论著
 
-(1)陈鹏, 林斌, 白勇, 等. 基于步进式自适应特征融合模块的小目标检测网络[J/OL]. 计算机工程与应用, 1-11[2025-01-21]. http://kns.cnki.net/kcms/detail/11.2127.TP.20241224.1707.005.html.
+(1) 陈鹏, 林斌, 白勇, 等. 基于步进式自适应特征融合模块的小目标检测网络[J/OL]. 计算机工程与应用, 1-11[2025-01-21]. http://kns.cnki.net/kcms/detail/11.2127.TP.20241224.1707.005.html.
 
-(2)陈鹏, 白勇, 陈旭, 等. 融合点云Transformer的多尺度抓取检测模型[J/OL]. 计算机工程与应用, 1-11[2025-01-21]. http://kns.cnki.net/kcms/detail/11.2127.TP.20241030.1252.004.html. 
+(2) 陈鹏, 白勇, 陈旭, 等. 融合点云Transformer的多尺度抓取检测模型[J/OL]. 计算机工程与应用, 1-11[2025-01-21]. http://kns.cnki.net/kcms/detail/11.2127.TP.20241030.1252.004.html. 
 
-(3)陈鹏, 白勇, 孙翰翔. 面向抓取检测的位姿估计数据集自动采集标注系统[J]. 工程科学学报, 2024, 46(08): 1458-1468.
+(3) 陈鹏, 白勇, 孙翰翔. 面向抓取检测的位姿估计数据集自动采集标注系统[J]. 工程科学学报, 2024, 46(08): 1458-1468.
 
-(4)陈鹏,包倍源,陈旭.基于多尺度特征融合与重要性排序损失的遥感图像匹配网络[J/OL].激光与光电子学进展, 1-17. 
+(4) 陈鹏,包倍源,陈旭.基于多尺度特征融合与重要性排序损失的遥感图像匹配网络[J/OL].激光与光电子学进展, 1-17. 
 
-(5)陈鹏, 刘攀, 郑逐隧等. 基于轻量化YOLO模型的电力机房设备状态快速检测[J]. 制造业自动, 2023, 45(05): 30-35. 
+(5) 陈鹏, 刘攀, 郑逐隧等. 基于轻量化YOLO模型的电力机房设备状态快速检测[J]. 制造业自动, 2023, 45(05): 30-35. 
 
-(6)陈鹏; 王晨骁; IEPnP:一种基于EPnP的相机位姿迭代估计算法, 光学学报, 2018, 38(4): 411001-1. 
+(6) 陈鹏; 王晨骁; IEPnP:一种基于EPnP的相机位姿迭代估计算法, 光学学报, 2018, 38(4): 411001-1. 
 
-(7)崔家瑞, 陈鹏, 胡广大. 空间站脉冲编码被动式交会对接合作目标三维跟踪[J]. 宇航学报, 2016, 37(01): 102-111. 
+(7) 崔家瑞, 陈鹏, 胡广大. 空间站脉冲编码被动式交会对接合作目标三维跟踪[J]. 宇航学报, 2016, 37(01): 102-111. 
 
-(8)Chen P, Huang W L, Lin B, et al. Hazard Detection for Power Transmission Channel Based on Texture Enhancement and Context Awareness[C]//2024 43rd Chinese Control Conference (CCC). IEEE, 2024: 7942-7947.
+(8) Chen P, Huang W L, Lin B, et al. Hazard Detection for Power Transmission Channel Based on Texture Enhancement and Context Awareness[C]//2024 43rd Chinese Control Conference (CCC). IEEE, 2024: 7942-7947.
 
-(9)Chen P, Cui J, Bai Y, Dai W. Multi-level Feature Extraction Point Cloud Registration Model Based on Cross-Attention Matrix[C]// 2024 China Automation Congress (CAC). IEEE, 2024: 105441.
+(9) Chen P, Cui J, Bai Y, Dai W. Multi-level Feature Extraction Point Cloud Registration Model Based on Cross-Attention Matrix[C]// 2024 China Automation Congress (CAC). IEEE, 2024: 105441.
 
-(10)Chen P, Luo W, Li Q, Zuo H, Niu Y. Depth Quality Enhancement and Feature Shrinking Guided RGB-D Salient Object Detection[C] // 2024 China Automation Congress (CAC). IEEE, 2024: 105510.
+(10) Chen P, Luo W, Li Q, Zuo H, Niu Y. Depth Quality Enhancement and Feature Shrinking Guided RGB-D Salient Object Detection[C] // 2024 China Automation Congress (CAC). IEEE, 2024: 105510.
 
-(11)Chen P, Zhang D Y. MFF-TrackNet: 6D Pose Tracking Network via Multi-Attention Feature Fusion[C]//2023 42nd Chinese Control Conference (CCC). IEEE, 2023: 7388-7393.
+(11) Chen P, Zhang D Y. MFF-TrackNet: 6D Pose Tracking Network via Multi-Attention Feature Fusion[C]//2023 42nd Chinese Control Conference (CCC). IEEE, 2023: 7388-7393.
 
-(12)Chen P, Sun H, Bai Y. Automatic 6D Pose Collection and Annotation System for Robot Grasping[C]//2023 42nd Chinese Control Conference (CCC). IEEE, 2023: 7907-7912. 
+(12) Chen P, Sun H, Bai Y. Automatic 6D Pose Collection and Annotation System for Robot Grasping[C]//2023 42nd Chinese Control Conference (CCC). IEEE, 2023: 7907-7912. 
 
-(13)Chen P, Chen X. Architecture design of smart light pole system based on IoT technology[C]//International Conference on Internet of Things and Machine Learning (IoTML 2022). SPIE, 2023, 12640: 18-23. 
+(13) Chen P, Chen X. Architecture design of smart light pole system based on IoT technology[C]//International Conference on Internet of Things and Machine Learning (IoTML 2022). SPIE, 2023, 12640: 18-23. 
 
-(14)Dai W, Chen P. A Point Cloud Registration Network Combined with Graph Convolution and FPFH for Feature Extraction[C]//2022 China Automation Congress (CAC). IEEE, 2022: 2280-2284.
+(14) Dai W, Chen P. A Point Cloud Registration Network Combined with Graph Convolution and FPFH for Feature Extraction[C]//2022 China Automation Congress (CAC). IEEE, 2022: 2280-2284.
 
-Chen P, Li B H. RGB-D Salient Object Detection via Joint Learning and Multi-feature Fusion[C]//2022 International Conference on Image Processing, Computer Vision and Machine Learning (ICICML). IEEE, 2022: 547-552. 
+(15) Chen P, Li B H. RGB-D Salient Object Detection via Joint Learning and Multi-feature Fusion[C]//2022 International Conference on Image Processing, Computer Vision and Machine Learning (ICICML). IEEE, 2022: 547-552. 
 
 # 授权或公开的专利
 
