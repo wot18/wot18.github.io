@@ -1,0 +1,14 @@
+title: 陈鹏的个人主页
+description: 河北工业大学人工智能与数据科学学院副教授
+theme: jekyll-theme-minimal
+lang: zh-CN
+
+# 社交链接
+social_links:
+  bilibili: https://space.bilibili.com/
+
+# 基本信息
+author:
+  name: 陈鹏
+  title: 副教授
+  affiliation: 河北工业大学人工智能与数据科学学院
