@@ -1,9 +1,3 @@
-
----
-layout: default
-title: 陈鹏个人主页
----
-
 <style>
 .github-corner, .site-footer { display: none !important; }
 
