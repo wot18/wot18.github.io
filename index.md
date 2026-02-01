@@ -202,6 +202,18 @@ layout: default
     </div>
   </div>
 
+   <div class="student-card">
+    <div class="student-img">
+      <img src="/assets/img/students/奥恩.png" alt="奥恩" onerror="this.src='/assets/img/default_avatar.png'">
+    </div>
+    <div class="student-info">
+      <h3>Aown Raza Hashmi</h3>
+      
+      <p class="email"><strong>邮箱：</strong>552174117@qq.com</p>
+    </div>
+  </div>
+ 
+  
 </div>
 <h2 class="student-year">2024级</h2>
 <div class="student-grid">
