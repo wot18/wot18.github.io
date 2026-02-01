@@ -7,7 +7,7 @@ layout: default
     <img src="/assets/img/职业照.png" alt="陈鹏">
     <h2>陈鹏</h2>
     <p>副教授，硕士生导师</p>
-    <p>河北工业大学<br>人工智能与数据科学学院<br>智能控制系</p>
+    <p>河北工业大学<br>人工智能与数据科学学院<br>智能控制系<br>邮箱：2015019@hebut.edu.cn</p>
   </div>
   <div class="nav-menu">
     <button class="nav-btn active" onclick="openTab(event, 'profile')">个人简介</button>
