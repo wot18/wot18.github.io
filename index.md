@@ -291,7 +291,7 @@ layout: default
     <div class="student-info">
       <h3>陈旭</h3>
       <p class="direction"><strong>研究方向：</strong>卫星拒止条件下的无人机视觉定位关键技术研究</p>
-      
+      <p class="email"><strong>邮箱：</strong>chen_xu0236@qq.com</p>
     </div>
   </div>
 
