@@ -175,8 +175,11 @@ layout: default
   <div id="videos" class="tab-content">
     <h1>3D AI Sensing 小组工作视频</h1>
     <div class="video-container">
-      <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">小米机器狗障碍物识别与避障实验</a>
-      <a href="https://www.bilibili.com/video/BV1DhB2YQE7R?vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">面向抓取的位姿跟踪算法对比实验</a>
+      <a href="https://www.bilibili.com/video/BV1RWNxz8EXi/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">四足机器人循迹与障碍物检测实验</a>
+      <a href="https://www.bilibili.com/video/BV1WANWzTEni/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">四足机器人目标检测与跟随实验</a>
+      <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">小米机器狗障碍物识别与避障实验</a>
+      <a href="https://www.bilibili.com/video/BV1DhB2YQE7R/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">面向抓取的位姿跟踪算法对比实验</a>
+      <a href="https://www.bilibili.com/video/BV1QhB2YXEJW/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">基于深度相机的3D建模与位姿跟踪实验</a>
     </div>
   </div>
 </div>
