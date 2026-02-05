@@ -442,7 +442,7 @@ layout: default
 </div>
 </div>
   <div id="videos" class="tab-content">
-    <h1>3D AI Sensing 小组工作视频</h1>
+    <h1>小组视频</h1>
     <div class="video-grid">
       
       <div class="video-item">
