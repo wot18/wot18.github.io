@@ -7,7 +7,7 @@ layout: default
     <img src="/assets/img/职业照.png" alt="陈鹏">
     <h2>陈鹏</h2>
     <p>副教授，硕士生导师</p>
-    <p>河北工业大学<br>人工智能与数据科学学院<br>智能控制系<br>邮箱：2015019@hebut.edu.cn</p>
+    <p>河北工业大学<br>人工智能与数据科学学院<br>智能控制系</p>
   </div>
   <div class="nav-menu">
     <button class="nav-btn active" onclick="openTab(event, 'profile')">个人简介</button>
@@ -202,18 +202,6 @@ layout: default
     </div>
   </div>
 
-   <div class="student-card">
-    <div class="student-img">
-      <img src="/assets/img/students/奥恩.png" alt="奥恩" onerror="this.src='/assets/img/default_avatar.png'">
-    </div>
-    <div class="student-info">
-      <h3>Aown Raza Hashmi</h3>
-      
-      <p class="email"><strong>邮箱：</strong>552174117@qq.com</p>
-    </div>
-  </div>
- 
-  
 </div>
 <h2 class="student-year">2024级</h2>
 <div class="student-grid">
@@ -303,7 +291,7 @@ layout: default
     <div class="student-info">
       <h3>陈旭</h3>
       <p class="direction"><strong>研究方向：</strong>卫星拒止条件下的无人机视觉定位关键技术研究</p>
-      <p class="email"><strong>邮箱：</strong>chen_xu0236@qq.com</p>
+      
     </div>
   </div>
 
@@ -453,16 +441,45 @@ layout: default
 
 </div>
 </div>
-  </div>
-
   <div id="videos" class="tab-content">
     <h1>3D AI Sensing 小组工作视频</h1>
-    <div class="video-container">
-      <a href="https://www.bilibili.com/video/BV1RWNxz8EXi/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">四足机器人循迹与障碍物检测实验</a>
-      <a href="https://www.bilibili.com/video/BV1WANWzTEni/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">四足机器人目标检测与跟随实验</a>
-      <a href="https://www.bilibili.com/video/BV1Q8B2YpEbV/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">小米机器狗障碍物识别与避障实验</a>
-      <a href="https://www.bilibili.com/video/BV1DhB2YQE7R/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">面向抓取的位姿跟踪算法对比实验</a>
-      <a href="https://www.bilibili.com/video/BV1QhB2YXEJW/?share_source=copy_web&vd_source=26fd4b693b6de6f59d1a993e7865c59c" target="_blank">基于深度相机的3D建模与位姿跟踪实验</a>
+    <div class="video-grid">
+      
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1RWNxz8EXi&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>四足机器人循迹与障碍物检测实验</p>
+      </div>
+
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1WANWzTEni&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>四足机器人目标检测与跟随实验</p>
+      </div>
+
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1Q8B2YpEbV&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>小米机器狗障碍物识别与避障实验</p>
+      </div>
+
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1DhB2YQE7R&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>面向抓取的位姿跟踪算法对比实验</p>
+      </div>
+
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1QhB2YXEJW&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>基于深度相机的3D建模与位姿跟踪实验</p>
+      </div>
+
     </div>
   </div>
 </div>
