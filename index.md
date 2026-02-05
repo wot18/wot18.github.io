@@ -214,7 +214,6 @@ layout: default
 
     </div>
   </div>
-</div>
 
   <div id="students" class="tab-content">
     <h1>课题组成员</h1>
@@ -435,7 +434,7 @@ layout: default
     </div>
     <div class="student-info">
       <h3>刘攀</h3>
-      <p class="direction"><strong>面向输电线路场景的视觉小目标检测方法研究</p>
+      <p class="direction"><strong>研究方向：</strong>面向输电线路场景的视觉小目标检测方法研究</p>
       <p class="email"><strong>邮箱：</strong>771239711@qq.com</p>
     </div>
   </div>
@@ -495,7 +494,7 @@ layout: default
   </div>
 
 </div>
-  </div>
+</div>
 
 <script>
 function openTab(evt, tabName) {
