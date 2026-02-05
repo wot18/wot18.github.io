@@ -16,7 +16,7 @@ layout: default
     <button class="nav-btn" onclick="openTab(event, 'publications')">代表性论著</button>
     <button class="nav-btn" onclick="openTab(event, 'patents')">专利/软著</button>
     <button class="nav-btn" onclick="openTab(event, 'awards')">教研/获奖</button>
-    <button class="nav-btn" onclick="openTab(event, 'videos')">课题组视频</button>
+    <button class="nav-btn" onclick="openTab(event, 'videos')">实验视频</button>
     <button class="nav-btn" onclick="openTab(event, 'students')">课题组成员</button>
   </div>
 </div>
