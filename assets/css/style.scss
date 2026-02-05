@@ -103,6 +103,14 @@ body {
   display: block;
 }
 
+.main-content #profile p {
+  font-size: 1.3em;
+}
+
+.main-content #research li {
+  font-size: 1.3em;
+}
+
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
