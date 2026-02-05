@@ -25,7 +25,7 @@ layout: default
   
   <div id="profile" class="tab-content active">
     <h1>个人简介</h1>
-    <p>陈鹏，男，副教授，硕士生导师，河北工业大学人工智能与数据学科学学院智能控制系副主任。中国自动化学会智能制造系统与技术专委会委员，河北省人工智能学会理事。2015年，博士毕业于北京科技大学控制科学与工程专业，曾在捷克布尔诺技术大学、澳大利亚西悉尼大学访学。研究领域为机器视觉、机器人导航与自主定位、机器人三维环境感知、机器人位姿估计等。参与国家自然科学基金联合基金1项，国家重点研发计划1项，河北省重大科技成果转化专项1项，国家自然科学基金5项。获得河北省科技进步二等奖1项。在《Journal of Intelligent Material Systems and Structures》、《International Journal for Light and Electron Optics》、《机器人》、《光学学报》、《宇航学报》、《计算机工程与应用》等国内外知名期刊、会议上发表论文30余篇，授权或公开发明专利6项，授权实用新型专利1项，取得软件著作权多项。</p>
+    <p>陈鹏，男，副教授，硕士生导师，河北工业大学人工智能与数据学科学学院智能控制系副主任。中国自动化学会智能制造系统与技术专委会委员，河北省人工智能学会理事。2015年，博士毕业于北京科技大学控制科学与工程专业，曾在捷克布尔诺技术大学、澳大利亚西悉尼大学访学。研究领域为机器视觉、机器人导航与自主定位、机器人三维环境感知、机器人位姿估计等。参与国家自然科学基金联合基金1项，国家重点研发计划1项，河北省重大科技成果转化专项1项，国家自然科学基金5项。获得河北省科技进步二等奖1项。在《Journal of Intelligent Material Systems and Structures》、《International Journal for Light and Electron Optics》、《机器人》、《光学学报》、《宇航学报》、《工程科学学报》、《计算机工程与应用》等国内外知名期刊、会议上发表论文30余篇，授权或公开发明专利6项，授权实用新型专利1项，取得软件著作权多项。</p>
   </div>
 
   <div id="research" class="tab-content">
@@ -80,20 +80,18 @@ layout: default
   <div id="publications" class="tab-content">
     <h1>期刊论文</h1>
     <ul>
-      <li>陈鹏,陈旭,罗文,等. 基于视觉语言模型的多模态无人机跨视图地理定位[J].机器人,2025,47(03):416-426.DOI:10.13973/j.cnki.robot.240283.</li>
-      <li>陈鹏,林斌,白勇,等. 基于步进式自适应特征融合模块的小目标检测网络[J].计算机工程与应用,2025,61(23):224-232.</li>
-      <li>陈鹏,白勇,陈旭,等. 融合点云Transformer的多尺度抓取检测模型[J].计算机工程与应用,2025,61(22):196-204.</li>
-      <li>陈鹏,白勇,孙翰翔. 面向抓取检测的位姿估计数据集自动采集标注系统[J].工程科学学报,2024,46(08):1458-1468.</li>
-      <li>陈鹏, 包倍源, 陈旭. 基于多尺度特征融合与重要性排序损失的遥感图像匹配网络[J/OL]. 激光与光电子学进展, 1-17[2024-03-16]. (北大核心)</li>
-      <li>陈鹏, 刘攀, 郑逐隧等. 基于轻量化YOLO模型的电力机房设备状态快速检测[J]. 制造业自动化, 2023. (北大核心)</li>
-      <li>陈海永, 李龙腾, 陈鹏等. 复杂场景点云数据的6D位姿估计深度学习网络[J]. 电子与信息学报, 2022. (EI)</li>
-      <li>陈鹏, 王晨骁. IEPnP: 一种基于EPnP的相机位姿迭代估计算法 [J]. 光学学报, 2018. (EI)</li>
-      <li>崔家瑞, 陈鹏, 胡广大. 空间站脉冲编码被动式交会对接合作目标三维跟踪[J]. 宇航学报, 2016. (EI)</li>
+      <li>陈鹏, 陈旭, 罗文, 等. 基于视觉语言模型的多模态无人机跨视图地理定位[J]. 机器人, 2025, 47(03): 416-426. </li>
+      <li>陈鹏, 林斌, 白勇, 等. 基于步进式自适应特征融合模块的小目标检测网络[J]. 计算机工程与应用, 2025, 61(23): 224-232.</li>
+      <li>陈鹏, 白勇, 陈旭, 等. 融合点云Transformer的多尺度抓取检测模型[J]. 计算机工程与应用, 2025, 61(22): 196-204.</li>
+      <li>陈鹏, 白勇, 孙翰翔. 面向抓取检测的位姿估计数据集自动采集标注系统[J]. 工程科学学报, 2024, 46(08): 1458-1468.</li>
+      <li>陈鹏, 包倍源, 陈旭. 基于多尺度特征融合与重要性排序损失的遥感图像匹配网络[J]. 激光与光电子学进展, 1-17[2024-03-16]. </li>
+      <li>陈鹏, 刘攀, 郑逐隧等. 基于轻量化YOLO模型的电力机房设备状态快速检测[J]. 制造业自动化, 2023. </li>
+      <li>陈鹏, 王晨骁. IEPnP: 一种基于EPnP的相机位姿迭代估计算法 [J]. 光学学报, 2018.</li>
+      <li>崔家瑞, 陈鹏, 胡广大. 空间站脉冲编码被动式交会对接合作目标三维跟踪[J]. 宇航学报, 2016.</li>
     </ul>
 
     <h1>会议论文</h1>
     <ul>
-      <li>Chen P, Luo W, Chen X, Lin B. Multimodal Drone Cross-view Geo-localization Based on Vision-language Model[J]. Robot, 2025, 47(3): 416–426. (EI)</li>
       <li>Chen P, Zuo H S, Li Q L, Niu F Y. A LLM-Assisted Framework for Hub Casting Character Recognition[C]//Proceedings of the 44th Chinese Control Conference (CCC), 2025: 7733–7738. (EI)</li>
       <li>Chen P, Bai Y, Cui J Q, Dai W. Multi-level Feature Extraction Point Cloud Registration Model Based on Cross-Attention Matrix[C]//Proceedings of 2024 China Automation Congress (CAC), 2024: 4471–4476. (EI)</li>
       <li>Chen P, Bao B Y, Shi F C. End-to-end Remote Sensing Image Matching based on Deep Feature Learning[C]//Proceedings of the 8th International Symposium on Computer Science and Intelligent Control (ISCSIC), 2024: 190–194. (EI)</li>
