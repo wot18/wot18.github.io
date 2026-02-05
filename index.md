@@ -173,6 +173,49 @@ layout: default
     </ul>
   </div>
 
+  <div id="videos" class="tab-content">
+    <h1>小组视频</h1>
+    <div class="video-grid">
+      
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1RWNxz8EXi&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>四足机器人循迹与障碍物检测实验</p>
+      </div>
+
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1WANWzTEni&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>四足机器人目标检测与跟随实验</p>
+      </div>
+
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1Q8B2YpEbV&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>小米机器狗障碍物识别与避障实验</p>
+      </div>
+
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1DhB2YQE7R&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>面向抓取的位姿跟踪算法对比实验</p>
+      </div>
+
+      <div class="video-item">
+        <div class="video-wrapper">
+          <iframe src="//player.bilibili.com/player.html?bvid=BV1QhB2YXEJW&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+        </div>
+        <p>基于深度相机的3D建模与位姿跟踪实验</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
   <div id="students" class="tab-content">
     <h1>课题组成员</h1>
     <div class="students-container">
@@ -201,6 +244,18 @@ layout: default
       <p class="email"><strong>邮箱：</strong>552174117@qq.com</p>
     </div>
   </div>
+
+
+  <div class="student-card">
+    <div class="student-img">
+      <img src="/assets/img/students/奥恩.png" alt="奥恩" onerror="this.src='/assets/img/default_avatar.png'">
+    </div>
+    <div class="student-info">
+      <h3>奥恩</h3>
+      
+      <p class="email"><strong>邮箱：</strong>aownraza14@gmail.com</p>
+    </div>
+  </div>  
 
 </div>
 <h2 class="student-year">2024级</h2>
@@ -440,49 +495,7 @@ layout: default
   </div>
 
 </div>
-</div>
-  <div id="videos" class="tab-content">
-    <h1>小组视频</h1>
-    <div class="video-grid">
-      
-      <div class="video-item">
-        <div class="video-wrapper">
-          <iframe src="//player.bilibili.com/player.html?bvid=BV1RWNxz8EXi&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-        </div>
-        <p>四足机器人循迹与障碍物检测实验</p>
-      </div>
-
-      <div class="video-item">
-        <div class="video-wrapper">
-          <iframe src="//player.bilibili.com/player.html?bvid=BV1WANWzTEni&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-        </div>
-        <p>四足机器人目标检测与跟随实验</p>
-      </div>
-
-      <div class="video-item">
-        <div class="video-wrapper">
-          <iframe src="//player.bilibili.com/player.html?bvid=BV1Q8B2YpEbV&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-        </div>
-        <p>小米机器狗障碍物识别与避障实验</p>
-      </div>
-
-      <div class="video-item">
-        <div class="video-wrapper">
-          <iframe src="//player.bilibili.com/player.html?bvid=BV1DhB2YQE7R&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-        </div>
-        <p>面向抓取的位姿跟踪算法对比实验</p>
-      </div>
-
-      <div class="video-item">
-        <div class="video-wrapper">
-          <iframe src="//player.bilibili.com/player.html?bvid=BV1QhB2YXEJW&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-        </div>
-        <p>基于深度相机的3D建模与位姿跟踪实验</p>
-      </div>
-
-    </div>
   </div>
-</div>
 
 <script>
 function openTab(evt, tabName) {
