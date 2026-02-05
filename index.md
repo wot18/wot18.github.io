@@ -173,7 +173,7 @@ layout: default
   </div>
 
   <div id="videos" class="tab-content">
-    <h1>小组视频</h1>
+    <h1>课题组视频</h1>
     <div class="video-grid">
       
       <div class="video-item">
