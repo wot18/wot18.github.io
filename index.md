@@ -251,7 +251,7 @@ layout: default
       <img src="/assets/img/students/奥恩.png" alt="奥恩" onerror="this.src='/assets/img/default_avatar.png'">
     </div>
     <div class="student-info">
-      <h3>奥恩</h3>
+      <h3>Aown Raza Hashmi</h3>
       
       <p class="email"><strong>邮箱：</strong>aownraza14@gmail.com</p>
     </div>
