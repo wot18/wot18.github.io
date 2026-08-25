@@ -92,6 +92,7 @@ layout: default
 
     <h1>会议论文</h1>
     <ul>
+	<li>NIU F Y, CHEN P, GUO L, et al. An urban road garbage detection pipeline based on CSRT algorithm enhanced by YOLOv8[C]//Proceedings of the 2025 China Automation Conference (CAC). 2025: 6476-6481. (EI)<li>
       <li>Chen P, Zuo H S, Li Q L, Niu F Y. A LLM-Assisted Framework for Hub Casting Character Recognition[C]//Proceedings of the 44th Chinese Control Conference (CCC), 2025: 7733–7738. (EI)</li>
       <li>Chen P, Bai Y, Cui J Q, Dai W. Multi-level Feature Extraction Point Cloud Registration Model Based on Cross-Attention Matrix[C]//Proceedings of 2024 China Automation Congress (CAC), 2024: 4471–4476. (EI)</li>
       <li>Chen P, Bao B Y, Shi F C. End-to-end Remote Sensing Image Matching based on Deep Feature Learning[C]//Proceedings of the 8th International Symposium on Computer Science and Intelligent Control (ISCSIC), 2024: 190–194. (EI)</li>
@@ -122,8 +123,8 @@ layout: default
     <h1>专利</h1>
     <ul>
       <li>陈鹏, 郑逐隧. 基于深度学习的迭代6D位姿估计方法及装置[P]. 天津市: CN118037829A, 2024-05-14. (授权)</li>
-      <li>陈鹏, 白勇, 张东岳等. 一种基于主成分分析的耐火砖三维测量方法[P]. 天津市: CN116576777A, 2023-08-11. (公开)</li>
-      <li>陈鹏, 孙翰翔, 包倍源等. 一种六自由度位姿估计数据集自动采集系统[P]. 天津市: CN115719300A, 2023-02-28. (公开)</li>
+      <li>陈鹏, 白勇, 张东岳等. 一种基于主成分分析的耐火砖三维测量方法[P]. 天津市: CN116576777A, 2023-08-11. (授权)</li>
+      <li>陈鹏, 孙翰翔, 包倍源等. 一种六自由度位姿估计数据集自动采集系统[P]. 天津市: CN115719300A, 2023-02-28. (授权)</li>
       <li>崔纯溪, 陈鹏. 一种计算机可拆式散热隔网[P]. 天津市: CN218158723U, 2022-12-27. (授权)</li>
       <li>刘坤, 丁皓东, 陈鹏等. 基于SHOT和ICP算法的无序抓取中的三维姿态估计方法[P]. 天津市: CN114266755A, 2022-04-01. (授权)</li>
     </ul>
@@ -215,6 +216,32 @@ layout: default
   <div id="students" class="tab-content">
     <h1>课题组成员</h1>
     <div class="students-container">
+<h2 class="student-year">2026级</h2>
+<div class="student-grid">
+
+  <div class="student-card">
+    <div class="student-img">
+      <img src="/assets/img/students/杜传辉.png" alt="杜传辉" onerror="this.src='/assets/img/default_avatar.png'">
+    </div>
+    <div class="student-info">
+      <h3>杜传辉</h3>
+      
+      <p class="email"><strong>邮箱：</strong>1626271141@qq.com</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <div class="student-img">
+      <img src="/assets/img/students/高炎.png" alt="高炎" onerror="this.src='/assets/img/default_avatar.png'">
+    </div>
+    <div class="student-info">
+      <h3>高炎</h3>
+      
+      <p class="email"><strong>邮箱：</strong>2764559560@qq.com</p>
+    </div>
+  </div>
+
+</div>
 <h2 class="student-year">2025级</h2>
 <div class="student-grid">
 
