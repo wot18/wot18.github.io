@@ -92,7 +92,7 @@ layout: default
 
     <h1>会议论文</h1>
     <ul>
-	    <li>NIU F Y, CHEN P, GUO L, et al. An urban road garbage detection pipeline based on CSRT algorithm enhanced by YOLOv8[C]//Proceedings of the 2025 China Automation Conference (CAC). 2025: 6476-6481. (EI)<li>
+	    <li>NIU F Y, CHEN P, GUO L, et al. An urban road garbage detection pipeline based on CSRT algorithm enhanced by YOLOv8[C]//Proceedings of the 2025 China Automation Conference (CAC). 2025: 6476-6481. (EI)</li>
       <li>Chen P, Zuo H S, Li Q L, Niu F Y. A LLM-Assisted Framework for Hub Casting Character Recognition[C]//Proceedings of the 44th Chinese Control Conference (CCC), 2025: 7733–7738. (EI)</li>
       <li>Chen P, Bai Y, Cui J Q, Dai W. Multi-level Feature Extraction Point Cloud Registration Model Based on Cross-Attention Matrix[C]//Proceedings of 2024 China Automation Congress (CAC), 2024: 4471–4476. (EI)</li>
       <li>Chen P, Bao B Y, Shi F C. End-to-end Remote Sensing Image Matching based on Deep Feature Learning[C]//Proceedings of the 8th International Symposium on Computer Science and Intelligent Control (ISCSIC), 2024: 190–194. (EI)</li>
@@ -290,7 +290,7 @@ layout: default
     </div>
     <div class="student-info">
       <h3>李秋霖</h3>
-      <p class="direction"><strong>研究方向：</strong>基于单参考视图的无模型零样本位姿估计</p>
+      <p class="direction"><strong>研究方向：</strong>未见目标位姿估计</p>
       <p class="email"><strong>邮箱：</strong>1413630487@qq.com</p>
     </div>
   </div>
