@@ -225,7 +225,7 @@ layout: default
     </div>
     <div class="student-info">
       <h3>杜传辉</h3>
-      
+      <p class="direction"><strong>研究方向：</strong>待定</p>
       <p class="email"><strong>邮箱：</strong>1626271141@qq.com</p>
     </div>
   </div>
@@ -236,7 +236,7 @@ layout: default
     </div>
     <div class="student-info">
       <h3>高炎</h3>
-      
+      <p class="direction"><strong>研究方向：</strong>待定</p>
       <p class="email"><strong>邮箱：</strong>2764559560@qq.com</p>
     </div>
   </div>
@@ -251,7 +251,7 @@ layout: default
     </div>
     <div class="student-info">
       <h3>李令政</h3>
-      
+      <p class="direction"><strong>研究方向：</strong>基于开放词汇的零样本位姿估计</p>
       <p class="email"><strong>邮箱：</strong>2339866051@qq.com</p>
     </div>
   </div>
@@ -263,7 +263,7 @@ layout: default
     </div>
     <div class="student-info">
       <h3>公绪金</h3>
-      
+      <p class="direction"><strong>研究方向：</strong>多模态无监督伪装对象检测</p>
       <p class="email"><strong>邮箱：</strong>552174117@qq.com</p>
     </div>
   </div>
@@ -290,7 +290,7 @@ layout: default
     </div>
     <div class="student-info">
       <h3>李秋霖</h3>
-      <p class="direction"><strong>研究方向：</strong>未见目标位姿估计</p>
+      <p class="direction"><strong>研究方向：</strong>基于单参考视图的无模型零样本位姿估计</p>
       <p class="email"><strong>邮箱：</strong>1413630487@qq.com</p>
     </div>
   </div>
@@ -314,7 +314,7 @@ layout: default
     </div>
     <div class="student-info">
       <h3>牛放原</h3>
-      <p class="direction"><strong>研究方向：</strong>面向城市道路复杂场景的语义事件感知与多目标协同追踪</p>
+      <p class="direction"><strong>研究方向：</strong>面向小目标与复杂场景的城市道路垃圾检测与跟踪方法研究</p>
       <p class="email"><strong>邮箱：</strong>498401904@qq.com</p>
     </div>
   </div>
